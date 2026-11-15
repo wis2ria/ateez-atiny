@@ -1,0 +1,56 @@
+{
+  "site": {
+    "name": "Sail with ATEEZ",
+    "preview": true,
+    "footerNotice": "本網站為粉絲自發彙整，純屬分享用途，並不擁有任何影片的版權。版權皆歸屬於影片中可見的權利人。",
+    "unofficialNotice": "這是非官方的粉絲網站，與 ATEEZ 及其所屬公司無關。"
+  },
+  "mustWatch": {
+    "heading": "入坑必看",
+    "lead": "先看這幾支就好，每支只要幾分鐘。",
+    "videos": [
+      {
+        "title": "WONDERLAND",
+        "kind": "MV",
+        "task": "製作規模和概念",
+        "youtubeId": "JNmWOGMax8Q",
+        "recommendation": "（範例文字，正式上線前會換成站主寫的推薦語）這裡用兩三句話告訴朋友：為什麼這支 MV 值得他花四分鐘。",
+        "tier": "精選"
+      },
+      {
+        "title": "Ready or Not + BOUNCY + Weeoo + 미친 폼",
+        "kind": "現場",
+        "task": "現場實力",
+        "youtubeId": "MeglK5e30tc",
+        "recommendation": "（範例文字）這裡寫這個舞台最讓人起雞皮疙瘩的地方，例如從哪一秒開始看、要注意誰。",
+        "tier": "精選"
+      },
+      {
+        "title": "HALAZIA",
+        "kind": "現場",
+        "task": "現場實力",
+        "youtubeId": "3dHSfSbzF8Q",
+        "recommendation": "（範例文字）這裡寫這個舞台跟上一支不一樣的地方，讓朋友知道他們不是只有一種樣子。",
+        "tier": "精選"
+      },
+      {
+        "title": "WANTEEZ EP.1",
+        "kind": "綜藝",
+        "task": "團體氣氛",
+        "youtubeId": "S9herlq6QjI",
+        "recommendation": "（範例文字）這裡寫舞台下的他們是什麼樣子，為什麼看完會想認識每一個人。",
+        "tier": "精選"
+      }
+    ]
+  },
+  "more": {
+    "heading": "想看更多",
+    "lead": "喜歡的話，官方頻道上還有很多。",
+    "links": [
+      {
+        "label": "ATEEZ 官方 YouTube 頻道",
+        "url": "https://www.youtube.com/@ATEEZofficial"
+      }
+    ]
+  }
+}

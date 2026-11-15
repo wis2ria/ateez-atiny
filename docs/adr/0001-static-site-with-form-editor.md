@@ -17,7 +17,17 @@
 
 ## 具體工具
 
-候選是 Pages CMS。安裝前要先確認：目前是否仍在維護、是否免費、登入時向 GitHub 要求的授權範圍（是否能只授權這一個 repo）。確認結果補在這裡。
+採用 Pages CMS。2026-11-15 查閱官方文件（https://pagescms.org/docs/quick-start/）確認的事：
+
+- 有官方代管的編輯頁面 `app.pagescms.org`，用 GitHub 帳號登入。
+- 需要在擁有 repo 的帳號上安裝它的 GitHub App，表單欄位由 repo 根目錄的 `.pages.yml` 描述。
+- 是開放原始碼的專案，也可以自己架一份。
+
+還沒確認的事：
+
+- 代管版是否完全免費，官方的快速開始文件沒有寫。
+- GitHub App 實際要求的權限。安裝 GitHub App 時一般可以只選特定的 repo，安裝時要只勾 `ateez-atiny`。
+- `.pages.yml` 已寫好但還沒在實際的編輯器裡測試過。
 
 ## 考慮過但沒採用的做法
 

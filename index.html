@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sail with ATEEZ</title>
+  <meta name="description" content="粉絲整理的 ATEEZ 入門：先看這幾支影片。非官方網站。">
+  <meta name="theme-color" content="#0b0d12">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="preview-banner" class="preview-banner" hidden>預覽版：推薦語是範例文字，尚未公開</div>
+
+  <header class="hero">
+    <p class="hero-kicker">Start here</p>
+    <h1 class="hero-title" id="site-name">Sail with ATEEZ</h1>
+    <div class="hero-line" aria-hidden="true"></div>
+  </header>
+
+  <main>
+    <section class="must-watch" aria-labelledby="must-watch-heading">
+      <div class="section-head">
+        <h2 id="must-watch-heading"></h2>
+        <p id="must-watch-lead"></p>
+      </div>
+      <ol id="video-list" class="video-list"></ol>
+      <p id="load-error" class="load-error" hidden></p>
+    </section>
+
+    <section class="more" aria-labelledby="more-heading">
+      <h2 id="more-heading"></h2>
+      <p id="more-lead"></p>
+      <ul id="more-links" class="more-links"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p id="unofficial-notice"></p>
+    <p id="footer-notice"></p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
