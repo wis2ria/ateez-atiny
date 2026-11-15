@@ -2,12 +2,12 @@
   "site": {
     "name": "Sail with ATEEZ",
     "preview": false,
-    "footerNotice": "本網站為粉絲自發彙整，純屬分享用途，並不擁有任何影片的版權。版權皆歸屬於影片中可見的權利人。",
-    "unofficialNotice": "這是非官方的粉絲網站，與 ATEEZ 及其所屬公司無關。"
+    "unofficialNotice": "這是非官方的粉絲網站，與 ATEEZ 及其所屬公司無關。",
+    "footerNotice": "本網站為粉絲自發彙整，純屬分享用途，並不擁有任何影片的版權。版權皆歸屬於影片中可見的權利人。"
   },
   "mustWatch": {
     "heading": "入坑必看",
-    "lead": "先看這幾支就好，每支只要幾分鐘。",
+    "lead": "先看這幾支，每支只要幾分鐘。",
     "videos": [
       {
         "title": "UP",
@@ -49,8 +49,7 @@
     "links": [
       {
         "label": "ATEEZ 官方 YouTube 頻道",
-        "url": "https://www.youtube.com/@ATEEZofficial",
-        "note": ""
+        "url": "https://www.youtube.com/@ATEEZofficial"
       },
       {
         "label": "KQ Fellaz 美國研修記 EP.1",
