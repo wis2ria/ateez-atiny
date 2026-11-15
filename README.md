@@ -5,7 +5,7 @@
 - `index.html`、`styles.css`、`app.js`：版面，純靜態，沒有建置步驟。
 - `data/content.json`：所有內容（必看影片、推薦語、連結、頁尾文字）。
 - `.pages.yml`：表單編輯器 Pages CMS 的欄位設定。
-- `CONTEXT.md`：名詞表。
+- `GLOSSARY.md`：名詞表。
 - `docs/adr/`：重大決定的紀錄。
 - `docs/must-watch-candidates.md`：必看影片候選清單。
 

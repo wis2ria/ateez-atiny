@@ -1,7 +1,7 @@
 {
   "site": {
     "name": "Sail with ATEEZ",
-    "preview": true,
+    "preview": false,
     "footerNotice": "本網站為粉絲自發彙整，純屬分享用途，並不擁有任何影片的版權。版權皆歸屬於影片中可見的權利人。",
     "unofficialNotice": "這是非官方的粉絲網站，與 ATEEZ 及其所屬公司無關。"
   },
