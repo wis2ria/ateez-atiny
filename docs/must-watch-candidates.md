@@ -15,19 +15,21 @@
 | 現場實力 | 現場 | Magical Fantasy + WONDERLAND (Symphony No.9)，2025 歌謠大戰 | https://www.youtube.com/watch?v=lA4wEB1nMrk | 不確定 | 頻道待確認 |
 | 團體氣氛 | 綜藝 | WANTEEZ EP.1 | https://www.youtube.com/watch?v=S9herlq6QjI | ATEEZ 官方頻道 | 頻道待確認 |
 
-## Wis 指定的五支（2026-11-15 加入）
+## 已選定的五支（Wis 指定，2026-11-15）
 
-Wis 直接給的連結，已放進預覽版。這些影片**在搜尋中沒有被驗證**，上傳頻道和類型都還沒確認，上線前要逐支點開確認。
+已放進預覽版。2026-11-15 透過 YouTube 的 oEmbed 查詢確認了每支的標題和上傳頻道，五支都是官方頻道。
 
-| 順序 | 標題（Wis 的描述） | 影片代碼 | 狀態 |
-| --- | --- | --- | --- |
-| 01 | 海盜回歸：航海篇 | SGovymtCzvA | 頻道與類型待確認 |
-| 02 | 全員拿手麥的現場實力 | vTtKOO9HZJo | 頻道與類型待確認（預覽版標為現場） |
-| 03 | 海盜初登場：Will you be my friend? | RqJ1rH9M5G0 | 頻道與類型待確認 |
-| 04 | Kingdom 入坑時刻 | -uDitNeFO-I | 頻道與類型待確認 |
-| 05 | KQ Fellaz：ATEEZ 的起點 | O6Ze4N_043o | 頻道與類型待確認 |
+| 順序 | 影片標題（YouTube 上的原標題） | 影片代碼 | 上傳頻道 | 類型 | 任務 |
+| --- | --- | --- | --- | --- | --- |
+| 01 | ATEEZ(에이티즈) - 'UP' Official MV | SGovymtCzvA | KQ ENTERTAINMENT | MV | 製作規模和概念 |
+| 02 | ATEEZ (에이티즈) - UP [더 시즌즈-성시경의 고막남친] KBS 261113 방송 | vTtKOO9HZJo | KBS Kpop | 現場 | 現場實力 |
+| 03 | ATEEZ(에이티즈) - '해적왕(Pirate King)' Official MV (Performance ver.) | RqJ1rH9M5G0 | KQ ENTERTAINMENT | MV | 出道曲 |
+| 04 | [풀버전] ♬ Symphony No.9 “From The Wonderland” - 에이티즈(ATEEZ) | -uDitNeFO-I | Mnet K-POP | 現場 | 舞台規模 |
+| 05 | KQ Fellaz 미국 연수기 EP. 1 | O6Ze4N_043o | KQ ENTERTAINMENT | 紀錄 | 出道前的起點 |
 
-Wis 給的連結都帶有 `list=RD…&start_radio=1` 參數，是自動播放清單，已去掉，只留影片代碼。
+類型和任務是 Claude 依標題先填的，Wis 可以改。推薦語目前是 Wis 給的一句話草稿，正在用問答的方式擴寫。
+
+下面的清單是先前整理的其他候選，頻道仍未確認，目前沒有使用。
 
 ## 沒找到官方來源的
 

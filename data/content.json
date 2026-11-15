@@ -10,15 +10,15 @@
     "lead": "先看這幾支就好，每支只要幾分鐘。",
     "videos": [
       {
-        "title": "航海篇：海盜回歸",
-        "kind": "",
-        "task": "",
+        "title": "UP",
+        "kind": "MV",
+        "task": "製作規模和概念",
         "youtubeId": "SGovymtCzvA",
         "recommendation": "終於帶來期待已久的航海篇章。",
         "tier": "精選"
       },
       {
-        "title": "全員拿手麥的現場",
+        "title": "UP（KBS The Seasons 現場）",
         "kind": "現場",
         "task": "現場實力",
         "youtubeId": "vTtKOO9HZJo",
@@ -26,25 +26,25 @@
         "tier": "精選"
       },
       {
-        "title": "Will you be my friend?",
-        "kind": "",
-        "task": "",
+        "title": "해적왕 Pirate King（Performance ver.）",
+        "kind": "MV",
+        "task": "出道曲",
         "youtubeId": "RqJ1rH9M5G0",
         "recommendation": "海盜初登場。",
         "tier": "精選"
       },
       {
-        "title": "Kingdom 入坑時刻",
-        "kind": "",
-        "task": "",
+        "title": "Symphony No.9 “From The Wonderland”（Kingdom 完整版）",
+        "kind": "現場",
+        "task": "舞台規模",
         "youtubeId": "-uDitNeFO-I",
         "recommendation": "我的 Kingdom 入坑時刻。",
         "tier": "精選"
       },
       {
-        "title": "KQ Fellaz：ATEEZ 的起點",
-        "kind": "",
-        "task": "",
+        "title": "KQ Fellaz 美國研修記 EP.1",
+        "kind": "紀錄",
+        "task": "出道前的起點",
         "youtubeId": "O6Ze4N_043o",
         "recommendation": "ATEEZ 的起點。",
         "tier": "精選"

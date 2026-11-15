@@ -31,7 +31,7 @@ content:
                 label: 類型
                 type: select
                 options:
-                  values: [MV, 現場, 綜藝]
+                  values: [MV, 現場, 綜藝, 紀錄]
               - { name: task, label: 任務（這支影片要說服朋友的那件事）, type: string }
               - { name: youtubeId, label: YouTube 影片代碼（網址 v= 後面那 11 個字）, type: string }
               - { name: recommendation, label: 推薦語, type: text }
