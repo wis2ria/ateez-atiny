@@ -1,0 +1,62 @@
+{
+  "site": {
+    "name": "Sail with ATEEZ",
+    "preview": false,
+    "footerNotice": "本網站為粉絲自發彙整，純屬分享用途，並不擁有任何影片的版權。版權皆歸屬於影片中可見的權利人。",
+    "unofficialNotice": "這是非官方的粉絲網站，與 ATEEZ 及其所屬公司無關。"
+  },
+  "mustWatch": {
+    "heading": "入坑必看",
+    "lead": "先看這幾支就好，每支只要幾分鐘。",
+    "videos": [
+      {
+        "title": "UP",
+        "kind": "MV",
+        "task": "海盜回歸",
+        "youtubeId": "SGovymtCzvA",
+        "recommendation": "ATEEZ 是以海盜概念出道的團體。我從預告就開始期待，等了好久的海盜梯終於回來了。",
+        "tier": "精選"
+      },
+      {
+        "title": "UP（KBS The Seasons 現場）",
+        "kind": "現場",
+        "task": "現場實力",
+        "youtubeId": "vTtKOO9HZJo",
+        "recommendation": "這個舞台全員都拿手麥。從潤浩拿著手麥唱出第一句開始，我就起雞皮疙瘩了，這就是他們的現場實力。",
+        "tier": "精選"
+      },
+      {
+        "title": "해적왕 Pirate King（Performance ver.）",
+        "kind": "MV",
+        "task": "海盜初登場",
+        "youtubeId": "RqJ1rH9M5G0",
+        "recommendation": "這是他們出道時的樣子。看完再回頭看 UP，就能看到他們一路航行到現在，這八年來的成長與努力。",
+        "tier": "精選"
+      },
+      {
+        "title": "Symphony No.9 “From The Wonderland”（Kingdom 完整版）",
+        "kind": "現場",
+        "task": "入坑時刻",
+        "youtubeId": "-uDitNeFO-I",
+        "recommendation": "這是我的入坑時刻。在競演節目《Kingdom》上看到這個舞台，先是被整個舞台的規模震住，再聽到鍾浩的四段高音，整個驚為天人，當下就決定要去認識他們。",
+        "tier": "精選"
+      }
+    ]
+  },
+  "more": {
+    "heading": "想看更多",
+    "lead": "喜歡的話，官方頻道上還有很多。",
+    "links": [
+      {
+        "label": "ATEEZ 官方 YouTube 頻道",
+        "url": "https://www.youtube.com/@ATEEZofficial",
+        "note": ""
+      },
+      {
+        "label": "KQ Fellaz 美國研修記 EP.1",
+        "url": "https://www.youtube.com/watch?v=O6Ze4N_043o",
+        "note": "想更認識他們再看。出道前的他們一起吃苦、一起練習，這是 ATEEZ 的起點。"
+      }
+    ]
+  }
+}

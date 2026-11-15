@@ -1,0 +1,56 @@
+# Pages CMS 的表單設定：描述 data/content.json 裡有哪些欄位可以用表單編輯。
+# 尚未在實際的編輯器裡測試過，第一次登入時要確認表單能正常開啟和儲存。
+content:
+  - name: content
+    label: 網站內容
+    type: file
+    path: data/content.json
+    format: json
+    fields:
+      - name: site
+        label: 網站設定
+        type: object
+        fields:
+          - { name: name, label: 站名, type: string }
+          - { name: preview, label: 顯示「預覽版」橫幅, type: boolean }
+          - { name: unofficialNotice, label: 非官方標示, type: text }
+          - { name: footerNotice, label: 頁尾版權聲明, type: text }
+      - name: mustWatch
+        label: 入坑必看
+        type: object
+        fields:
+          - { name: heading, label: 標題, type: string }
+          - { name: lead, label: 標題下的一句話, type: string }
+          - name: videos
+            label: 必看影片
+            type: object
+            list: true
+            fields:
+              - { name: title, label: 影片標題, type: string }
+              - name: kind
+                label: 類型
+                type: select
+                options:
+                  values: [MV, 現場, 綜藝, 紀錄]
+              - { name: task, label: 任務（這支影片要說服朋友的那件事）, type: string }
+              - { name: youtubeId, label: YouTube 影片代碼（網址 v= 後面那 11 個字）, type: string }
+              - { name: recommendation, label: 推薦語, type: text }
+              - name: tier
+                label: 顯示層級
+                type: select
+                options:
+                  values: [精選, 完整]
+      - name: more
+        label: 想看更多
+        type: object
+        fields:
+          - { name: heading, label: 標題, type: string }
+          - { name: lead, label: 標題下的一句話, type: string }
+          - name: links
+            label: 連結
+            type: object
+            list: true
+            fields:
+              - { name: label, label: 顯示文字, type: string }
+              - { name: url, label: 網址, type: string }
+              - { name: note, label: 補充說明（可留空）, type: text }
