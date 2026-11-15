@@ -15,6 +15,20 @@
 | 現場實力 | 現場 | Magical Fantasy + WONDERLAND (Symphony No.9)，2025 歌謠大戰 | https://www.youtube.com/watch?v=lA4wEB1nMrk | 不確定 | 頻道待確認 |
 | 團體氣氛 | 綜藝 | WANTEEZ EP.1 | https://www.youtube.com/watch?v=S9herlq6QjI | ATEEZ 官方頻道 | 頻道待確認 |
 
+## Wis 指定的五支（2026-11-15 加入）
+
+Wis 直接給的連結，已放進預覽版。這些影片**在搜尋中沒有被驗證**，上傳頻道和類型都還沒確認，上線前要逐支點開確認。
+
+| 順序 | 標題（Wis 的描述） | 影片代碼 | 狀態 |
+| --- | --- | --- | --- |
+| 01 | 海盜回歸：航海篇 | SGovymtCzvA | 頻道與類型待確認 |
+| 02 | 全員拿手麥的現場實力 | vTtKOO9HZJo | 頻道與類型待確認（預覽版標為現場） |
+| 03 | 海盜初登場：Will you be my friend? | RqJ1rH9M5G0 | 頻道與類型待確認 |
+| 04 | Kingdom 入坑時刻 | -uDitNeFO-I | 頻道與類型待確認 |
+| 05 | KQ Fellaz：ATEEZ 的起點 | O6Ze4N_043o | 頻道與類型待確認 |
+
+Wis 給的連結都帶有 `list=RD…&start_radio=1` 參數，是自動播放清單，已去掉，只留影片代碼。
+
 ## 沒找到官方來源的
 
 - Kingdom: Legendary War 的 WONDERLAND (Symphony No.9) 舞台：搜尋結果裡沒有能確定是 Mnet 官方上傳的版本。

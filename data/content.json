@@ -10,35 +10,43 @@
     "lead": "先看這幾支就好，每支只要幾分鐘。",
     "videos": [
       {
-        "title": "WONDERLAND",
-        "kind": "MV",
-        "task": "製作規模和概念",
-        "youtubeId": "JNmWOGMax8Q",
-        "recommendation": "（範例文字，正式上線前會換成站主寫的推薦語）這裡用兩三句話告訴朋友：為什麼這支 MV 值得他花四分鐘。",
+        "title": "航海篇：海盜回歸",
+        "kind": "",
+        "task": "",
+        "youtubeId": "SGovymtCzvA",
+        "recommendation": "終於帶來期待已久的航海篇章。",
         "tier": "精選"
       },
       {
-        "title": "Ready or Not + BOUNCY + Weeoo + 미친 폼",
+        "title": "全員拿手麥的現場",
         "kind": "現場",
         "task": "現場實力",
-        "youtubeId": "MeglK5e30tc",
-        "recommendation": "（範例文字）這裡寫這個舞台最讓人起雞皮疙瘩的地方，例如從哪一秒開始看、要注意誰。",
+        "youtubeId": "vTtKOO9HZJo",
+        "recommendation": "全員拿手麥的現場實力，讓人起雞皮疙瘩。",
         "tier": "精選"
       },
       {
-        "title": "HALAZIA",
-        "kind": "現場",
-        "task": "現場實力",
-        "youtubeId": "3dHSfSbzF8Q",
-        "recommendation": "（範例文字）這裡寫這個舞台跟上一支不一樣的地方，讓朋友知道他們不是只有一種樣子。",
+        "title": "Will you be my friend?",
+        "kind": "",
+        "task": "",
+        "youtubeId": "RqJ1rH9M5G0",
+        "recommendation": "海盜初登場。",
         "tier": "精選"
       },
       {
-        "title": "WANTEEZ EP.1",
-        "kind": "綜藝",
-        "task": "團體氣氛",
-        "youtubeId": "S9herlq6QjI",
-        "recommendation": "（範例文字）這裡寫舞台下的他們是什麼樣子，為什麼看完會想認識每一個人。",
+        "title": "Kingdom 入坑時刻",
+        "kind": "",
+        "task": "",
+        "youtubeId": "-uDitNeFO-I",
+        "recommendation": "我的 Kingdom 入坑時刻。",
+        "tier": "精選"
+      },
+      {
+        "title": "KQ Fellaz：ATEEZ 的起點",
+        "kind": "",
+        "task": "",
+        "youtubeId": "O6Ze4N_043o",
+        "recommendation": "ATEEZ 的起點。",
         "tier": "精選"
       }
     ]
