@@ -27,6 +27,8 @@
 | 04 | [풀버전] ♬ Symphony No.9 “From The Wonderland” - 에이티즈(ATEEZ) | -uDitNeFO-I | Mnet K-POP | 現場 | 舞台規模 |
 | 05 | KQ Fellaz 미국 연수기 EP. 1 | O6Ze4N_043o | KQ ENTERTAINMENT | 紀錄 | 出道前的起點 |
 
+2026-11-15 晚調整：必看影片定為四支，順序是 01 UP MV、02 UP 現場、03 Pirate King、04 Kingdom 的 Symphony No.9。KQ Fellaz 美國研修記 EP.1 移到「想看更多」，因為整集紀錄片對還不認識他們的人太早。
+
 類型和任務是 Claude 依標題先填的，Wis 可以改。推薦語目前是 Wis 給的一句話草稿，正在用問答的方式擴寫。
 
 下面的清單是先前整理的其他候選，頻道仍未確認，目前沒有使用。

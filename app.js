@@ -116,6 +116,7 @@
       a.target = "_blank";
       a.rel = "noopener";
       li.appendChild(a);
+      if (entry.note) li.appendChild(el("p", "more-note", entry.note));
       links.appendChild(li);
     });
   }

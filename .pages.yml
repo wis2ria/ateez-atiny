@@ -53,3 +53,4 @@ content:
             fields:
               - { name: label, label: 顯示文字, type: string }
               - { name: url, label: 網址, type: string }
+              - { name: note, label: 補充說明（可留空）, type: text }
